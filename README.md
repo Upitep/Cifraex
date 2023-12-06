@@ -39,6 +39,7 @@ git clone https://github.com/Upitep/Cifraex
   "CurrencyCode": "USD",
   "Description": "Доллар США"
 }
+```
 
 2. **Создание пользователя**:
 Чтобы создать пользователя, отправьте POST-запрос на /api/User с именем пользователя в JSON-формате.
@@ -48,6 +49,7 @@ git clone https://github.com/Upitep/Cifraex
 {
   "Name": "Иван Иванов"
 }
+```
 
 3. **Обмен валюты**:
 Для выполнения обмена валют отправьте POST-запрос на /api/Exchange с необходимыми параметрами.
@@ -63,6 +65,7 @@ git clone https://github.com/Upitep/Cifraex
   "ExchangeRate": 0.85,
   "CommissionRate": 0.05
 }
+```
 
 ### Swagger UI
 Swagger UI доступен по адресу /swagger после запуска приложения. Здесь вы можете ознакомиться со всеми доступными эндпоинтами и их спецификациями.
