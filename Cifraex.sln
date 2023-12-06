@@ -5,7 +5,7 @@ VisualStudioVersion = 17.9.34310.174
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cifraex", "Cifraex.csproj", "{0B661E65-D9A6-4528-B878-DD4603E3703F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cifraex.Tests", "..\Cifraex.Tests\Cifraex.Tests.csproj", "{2A9F1E9A-A866-42B6-823C-54562C1E6ED3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cifraex.Tests", "Cifraex.Tests\Cifraex.Tests.csproj", "{63C16195-DC0D-4A45-9736-079889DB0BF9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{0B661E65-D9A6-4528-B878-DD4603E3703F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0B661E65-D9A6-4528-B878-DD4603E3703F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0B661E65-D9A6-4528-B878-DD4603E3703F}.Release|Any CPU.Build.0 = Release|Any CPU
-		{2A9F1E9A-A866-42B6-823C-54562C1E6ED3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2A9F1E9A-A866-42B6-823C-54562C1E6ED3}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2A9F1E9A-A866-42B6-823C-54562C1E6ED3}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2A9F1E9A-A866-42B6-823C-54562C1E6ED3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63C16195-DC0D-4A45-9736-079889DB0BF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63C16195-DC0D-4A45-9736-079889DB0BF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63C16195-DC0D-4A45-9736-079889DB0BF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63C16195-DC0D-4A45-9736-079889DB0BF9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
